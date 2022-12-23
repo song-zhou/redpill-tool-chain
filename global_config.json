@@ -774,7 +774,7 @@
     {
       "id": "ds3622xsp-7.0.1-42218",
       "platform_version": "ds3622xsp-7.0.1-42218",
-      "user_config_json": "broadwellnk_user_config-test.json",
+      "user_config_json": "ds3622xsp_user_config.json",
       "docker_base_image": "debian:8-slim",
       "redpill_lkm_make_target": "dev-v7",
       "compile_with": "toolkit_dev",
@@ -805,7 +805,7 @@
     {
       "id": "ds3622xsp-7.1.0-42621",
       "platform_version": "ds3622xsp-7.1.0-42621",
-      "user_config_json": "broadwellnk_user_config-test.json",
+      "user_config_json": "ds3622xsp_user_config.json",
       "docker_base_image": "debian:8-slim",
       "redpill_lkm_make_target": "dev-v7",
       "compile_with": "toolkit_dev",
@@ -836,7 +836,7 @@
     {
       "id": "ds3622xsp-7.1.0-42661",
       "platform_version": "ds3622xsp-7.1.0-42661",
-      "user_config_json": "broadwellnk_user_config-test.json",
+      "user_config_json": "ds3622xsp_user_config.json",
       "docker_base_image": "debian:8-slim",
       "redpill_lkm_make_target": "dev-v7",
       "compile_with": "toolkit_dev",
@@ -867,7 +867,7 @@
     {
       "id": "ds3622xsp-7.1.1-42951",
       "platform_version": "ds3622xsp-7.1.1-42951",
-      "user_config_json": "broadwellnk_user_config-test.json",
+      "user_config_json": "ds3622xsp_user_config.json",
       "docker_base_image": "debian:8-slim",
       "redpill_lkm_make_target": "dev-v7",
       "compile_with": "toolkit_dev",
@@ -898,8 +898,8 @@
     {
       "id": "ds3622xsp-7.1.1-42962",
       "platform_version": "ds3622xsp-7.1.1-42962",
-      "user_config_json": "broadwellnk_user_config-test.json",
-      "docker_base_image": "debian:8-slim",
+      "user_config_json": "ds3622xsp_user_config.json",
+      "docker_base_image": "debian:10-slim",
       "redpill_lkm_make_target": "dev-v7",
       "compile_with": "toolkit_dev",
       "downloads": {
